@@ -1,0 +1,14 @@
+[
+    {
+        "account": "account01",
+        "token": "token01"
+    },
+    {
+        "account": "account02",
+        "token": "token02"
+    },
+    {
+        "account": "account03",
+        "token": "token03"
+    }
+]
